@@ -96,19 +96,3 @@ Once your initial training is complete, observe the quality of the model and con
 This is the moment where you can use completely new data to test your model's accuracy. In an 'applied' ML setting, where you are building web assets to use the model in production, this process might involve gathering user input (a button press, for example) to set a variable and send it to the model for inference, or evaluation.
 
 In these lessons, you will discover how to use these steps to prepare, build, test, evaluate, and predict - all the gestures of a data scientist and more, as you progress in your journey to become a 'full stack' ML engineer.
-
----
-
-## 🚀Challenge
-
-Draw a flow chart reflecting the steps of a ML practitioner. Where do you see yourself right now in the process? Where do you predict you will find difficulty? What seems easy to you?
-
-## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/)
-
-## Review & Self Study
-
-Search online for interviews with data scientists who discuss their daily work. Here is [one](https://www.youtube.com/watch?v=Z3IjgbbCEfs).
-
-## Assignment
-
-[Interview a data scientist](assignment.md)

@@ -1,33 +1,3 @@
-# Introduction to machine learning
-
-<!--
-Watch the video, then take the pre-lesson quiz
--->
-
-[![ML, AI, deep learning - What's the difference?](https://img.youtube.com/vi/lTd9RSxS9ZE/0.jpg)](https://youtu.be/lTd9RSxS9ZE "ML, AI, deep learning - What's the difference?")
-
-> 🎥 Click the image above for a video discussing the difference between machine learning, AI, and deep learning.
-
-## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/1/)
-
----
-
-Welcome to this course on classical machine learning for beginners! Whether you're completely new to this topic, or an experienced ML practitioner looking to brush up on an area, we're happy to have you join us! We want to create a friendly launching spot for your ML study and would be happy to evaluate, respond to, and incorporate your [feedback](https://github.com/microsoft/ML-For-Beginners/discussions).
-
-[![Introduction to ML](https://img.youtube.com/vi/h0e2HAPTGF4/0.jpg)](https://youtu.be/h0e2HAPTGF4 "Introduction to ML")
-
-> 🎥 Click the image above for a video: MIT's John Guttag introduces machine learning
-
----
-## Getting started with machine learning
-
-Before starting with this curriculum, you need to have your computer set up and ready to run notebooks locally.
-
-- **Configure your machine with these videos**. Use the following links to learn [how to install Python](https://youtu.be/CXZYvNRIAKM) in your system and [setup a text editor](https://youtu.be/EU8eayHWoZg) for development.
-- **Learn Python**. It's also recommended to have a basic understanding of [Python](https://docs.microsoft.com/learn/paths/python-language/?WT.mc_id=academic-77952-leestott), a programming language useful for data scientists that we use in this course.
-- **Learn Node.js and JavaScript**. We also use JavaScript a few times in this course when building web apps, so you will need to have [node](https://nodejs.org) and [npm](https://www.npmjs.com/) installed, as well as [Visual Studio Code](https://code.visualstudio.com/) available for both Python and JavaScript development.
-- **Create a GitHub account**. Since you found us here on [GitHub](https://github.com), you might already have an account, but if not, create one and then fork this curriculum to use on your own. (Feel free to give us a star, too 😊)
-- **Explore Scikit-learn**. Familiarize yourself with [Scikit-learn](https://scikit-learn.org/stable/user_guide.html), a set of ML libraries that we reference in these lessons.
 
 ---
 ## What is machine learning?
@@ -42,21 +12,6 @@ The term 'machine learning' is one of the most popular and frequently used terms
 > Google Trends shows the recent 'hype curve' of the term 'machine learning'
 
 ---
-## A mysterious universe
-
-We live in a universe full of fascinating mysteries. Great scientists such as Stephen Hawking, Albert Einstein, and many more have devoted their lives to searching for meaningful information that uncovers the mysteries of the world around us. This is the human condition of learning: a human child learns new things and uncovers the structure of their world year by year as they grow to adulthood.
-
----
-## The child's brain
-
-A child's brain and senses perceive the facts of their surroundings and gradually learn the hidden patterns of life which help the child to craft logical rules to identify learned patterns. The learning process of the human brain makes humans the most sophisticated living creature of this world. Learning continuously by discovering hidden patterns and then innovating on those patterns enables us to make ourselves better and better throughout our lifetime. This learning capacity and evolving capability is related to a concept called [brain plasticity](https://www.simplypsychology.org/brain-plasticity.html). Superficially, we can draw some motivational similarities between the learning process of the human brain and the concepts of machine learning.
-
----
-## The human brain
-
-The [human brain](https://www.livescience.com/29365-human-brain.html) perceives things from the real world, processes the perceived information, makes rational decisions, and performs certain actions based on circumstances. This is what we called behaving intelligently. When we program a facsimile of the intelligent behavioral process to a machine, it is called artificial intelligence (AI).
-
----
 ## Some terminology
 
 Although the terms can be confused, machine learning (ML) is an important subset of artificial intelligence. **ML is concerned with using specialized algorithms to uncover meaningful information and find hidden patterns from perceived data to corroborate the rational decision-making process**.
@@ -67,11 +22,6 @@ Although the terms can be confused, machine learning (ML) is an important subset
 ![AI, ML, deep learning, data science](images/ai-ml-ds.png)
 
 > A diagram showing the relationships between AI, ML, deep learning, and data science. Infographic by [Jen Looper](https://twitter.com/jenlooper) inspired by [this graphic](https://softwareengineering.stackexchange.com/questions/366996/distinction-between-ai-ml-neural-networks-deep-learning-and-data-mining)
-
----
-## Concepts to cover
-
-In this curriculum, we are going to cover only the core concepts of machine learning that a beginner must know. We cover what we call 'classical machine learning' primarily using Scikit-learn, an excellent library many students use to learn the basics.  To understand broader concepts of artificial intelligence or deep learning, a strong fundamental knowledge of machine learning is indispensable, and so we would like to offer it here.
 
 ---
 ## In this course you will learn:
@@ -86,15 +36,9 @@ In this curriculum, we are going to cover only the core concepts of machine lear
 - time series forecasting ML techniques
 - reinforcement learning
 - real-world applications for ML
-
----
-## What we will not cover
-
-- deep learning
 - neural networks
-- AI
-
-To make for a better learning experience, we will avoid the complexities of neural networks, 'deep learning' - many-layered model-building using neural networks - and AI, which we will discuss in a different curriculum. We also will offer a forthcoming data science curriculum to focus on that aspect of this larger field.
+- deep learning fundamentals
+- a little bit of AI
 
 ---
 ## Why study machine learning?
@@ -128,22 +72,3 @@ Finance, economics, earth science, space exploration, biomedical engineering, co
 Machine learning automates the process of pattern-discovery by finding meaningful insights from real-world or generated data. It has proven itself to be highly valuable in business, health, and financial applications, among others.
 
 In the near future, understanding the basics of machine learning is going to be a must for people from any domain due to its widespread adoption.
-
----
-# 🚀 Challenge
-
-Sketch, on paper or using an online app like [Excalidraw](https://excalidraw.com/), your understanding of the differences between AI, ML, deep learning, and data science. Add some ideas of problems that each of these techniques are good at solving.
-
-# [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/2/)
-
----
-# Review & Self Study
-
-To learn more about how you can work with ML algorithms in the cloud, follow this [Learning Path](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=academic-77952-leestott).
-
-Take a [Learning Path](https://docs.microsoft.com/learn/modules/introduction-to-machine-learning/?WT.mc_id=academic-77952-leestott) about the basics of ML.
-
----
-# Assignment
-
-[Get up and running](assignment.md)
