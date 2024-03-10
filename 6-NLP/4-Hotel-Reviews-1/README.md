@@ -395,10 +395,6 @@ This lesson demonstrates, as we saw in previous lessons, how critically importan
 
 ## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/38/)
 
-## Review & Self Study
-
-Take [this Learning Path on NLP](https://docs.microsoft.com/learn/paths/explore-natural-language-processing/?WT.mc_id=academic-77952-leestott) to discover tools to try when building speech and text-heavy models.
-
 ## Assignment 
 
 [NLTK](assignment.md)
