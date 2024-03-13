@@ -18,11 +18,3 @@ In this series of lessons, you will discover new ways to analyze data using clus
 
 1. [Introduction to clustering](1-Visualize/README.md)
 2. [K-Means clustering](2-K-Means/README.md)
-
-## Credits
-
-These lessons were written with 🎶 by [Jen Looper](https://www.twitter.com/jenlooper) with helpful reviews by [Rishit Dagli](https://rishit_dagli) and [Muhammad Sakib Khan Inan](https://twitter.com/Sakibinan).
-
-The [Nigerian Songs](https://www.kaggle.com/sootersaalu/nigerian-songs-spotify) dataset was sourced from Kaggle as scraped from Spotify.
-
-Useful K-Means examples that aided in creating this lesson include this [iris exploration](https://www.kaggle.com/bburns/iris-exploration-pca-k-means-and-gmm-clustering), this [introductory notebook](https://www.kaggle.com/prashant111/k-means-clustering-with-python), and this [hypothetical NGO example](https://www.kaggle.com/ankandash/pca-k-means-clustering-hierarchical-clustering).
