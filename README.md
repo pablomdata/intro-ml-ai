@@ -28,3 +28,19 @@ Course materials adapted from [Microsoft's course](https://github.com/microsoft/
 |      20       |                  Anomaly Detection and Autoencoders                  |   [Neural Networks](8-Anomaly-Detection/README.md)    | Neural networks for fraud detection and image reconstruction | 
 |      21       |                  Using Pretrained Deep Learning Models                 |   [Neural Networks](9-Pretrained-Deep-Learning-Models/README.md)    | Introduction to Neural Networks and Deep Learning | 
 
+## Setup 
+
+- You need Python 3.11 installed in your system.
+- Clone the repository:
+```git clone https://github.com/pablomdata/intro-ml-ai```
+- Go to the folder in the command prompt. Once there, use the command
+```python -m venv env```
+to create a virtual environment.
+- Activate the virtual environment:
+	- In Windows: `env\Scripts\activate.bat`
+	- In Mac/Linux: `source env/scripts/activate`
+You should see an `(env)` next to your prompt.
+- Install dependencies:
+```pip install -r requirements.txt```
+- Launch Jupyter notebook:
+```jupyter notebook```
